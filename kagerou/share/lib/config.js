@@ -1,7 +1,7 @@
 'use strict'
 
 const VERSION = '0.7.26'
-const CODENAME = 'Lost-day Hours'
+const CODENAME = ' '
 const DESCRIPTION = '\'今日も夕ご飯のことを考える\''
 
 const CONFIG_DEFAULT = {
